@@ -2,7 +2,7 @@
 
 /*
 
-Plugin Name: Custom Post Types
+Plugin Name: Ajax Front Page
 Plugin URI: http://www.blogercise.com/genesis-ajax-powered-front-page/
 Description:
 Author: Jez
